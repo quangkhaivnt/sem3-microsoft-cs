@@ -1,0 +1,1 @@
+E:\UWP\WeatherAppDemo\WeatherAppDemo\WeatherAppDemo.csproj;x86
